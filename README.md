@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/74tf866/final.jpg"  alt="your_image_description" >
+
 
 
 # YGGDRASIL - EMS (Exam Management Portal) using MERN stack technology
